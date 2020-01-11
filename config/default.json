@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://walid:walid@cluster0-ocotv.mongodb.net/test?retryWrites=true&w=majority"
+}
