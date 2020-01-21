@@ -1,4 +1,7 @@
 {
   "mongoURI": "mongodb+srv://walid:walid@cluster0-ocotv.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "myToken"
+  "jwtSecret": "myToken",
+  "mongoAltURI": "mongodb://127.0.0.1:27017/DevConnector",
+  "githubClientId": "",
+  "githubSecret": ""
 }
